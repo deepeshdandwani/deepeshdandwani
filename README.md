@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepeshdandwani
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development along side my college
+- 👀 I’m interested in Development
+- 🌱 I’m currently pursuing engineering from manipal university jaipur
 - 💞️ I’m looking to collaborate on some good projects and internships
 - 📫 How to reach me Gmail:dandwanideepu@gmail.com / Mobile Number: +916376498113
 
